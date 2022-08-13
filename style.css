@@ -16,3 +16,8 @@ a:hover {
 li {
   list-style-type: none;
 }
+/*header started here */
+
+header {
+  background-color: aqua;
+}
